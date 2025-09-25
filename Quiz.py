@@ -49,3 +49,4 @@ elif score >= len(quiz_questions) // 2:
     print("👍 Good job! Keep practicing.")
 else:
     print("📘 Keep learning! You'll get better with time.")
+
